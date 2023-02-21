@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+I`m backend developer
+
+📫 How to reach me:
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />](https://t.me/ilyaEliseev_11)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />](https://www.linkedin.com/in/ilya-eliseev)
 
 <!--
 **IlyaEliseev/IlyaEliseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
